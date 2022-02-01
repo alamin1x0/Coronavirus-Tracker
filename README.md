@@ -1,6 +1,6 @@
 ## General
 
-COVID-19 Apps (coronavirus) cases, deaths, hospitalizations, tests • All countries • Updated daily by Our World in Data
+This Coronavirus Tracker Apps is created in android studio using java & Retrofit
 
 <a id="raw-url" href="apk/Covid19.apk?raw=true"><img src="img/download.svg"  width="180" height=auto>
 </a>
